@@ -20,9 +20,8 @@ It focuses on simplicity and clarity, making product discovery effortless.
 ---
 
 ## 🌐 API
-FakeStore API  
-https://github.com/keikaavousi/fake-store-api?tab=readme-ov-file
-
+DummyJson API  
+https://dummyjson.com/products
 ---
 
 ## 🛠️ Tech Stack
