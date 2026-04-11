@@ -19,8 +19,8 @@ It focuses on simplicity and clarity, making product discovery effortless.
 ---
 
 ## 🌐 API
-DummyJson API  
-https://dummyjson.com/products
+https://jsondata.reactbd.com/
+
 ---
 
 ## 🛠️ Tech Stack
