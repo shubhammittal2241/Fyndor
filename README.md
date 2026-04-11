@@ -13,15 +13,13 @@ It focuses on simplicity and clarity, making product discovery effortless.
 ## ⚡ Features
 - 🔍 Search products  
 - 🏷️ Filter by category  
-- 🔼 Sort by price & rating  
-- ❤️ Wishlist support  
+- 🔼 Sort by price  
 - 📱 Responsive design  
 
 ---
 
 ## 🌐 API
-FakeStore API  
-https://github.com/keikaavousi/fake-store-api?tab=readme-ov-file
+https://jsondata.reactbd.com/
 
 ---
 
@@ -34,6 +32,8 @@ https://github.com/keikaavousi/fake-store-api?tab=readme-ov-file
 
 ## 📂 Structure
 index.html  
+shop.html
 style.css  
+shop_style.css
 script.js  
 
